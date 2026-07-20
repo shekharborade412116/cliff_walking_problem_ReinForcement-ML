@@ -12,7 +12,7 @@ This repository implements the Cliff Walking problem using two Temporal Differen
 - Episode Length: 17
 
 ## Q-Learning Results
-- Total Reward: -13
+- Total Reward: -1
 - Episode Length: 13
 
 ## Environment
